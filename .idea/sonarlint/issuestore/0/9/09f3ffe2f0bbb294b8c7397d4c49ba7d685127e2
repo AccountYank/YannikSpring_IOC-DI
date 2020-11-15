@@ -1,0 +1,9 @@
+
+O
+squid:S106B"9Replace this use of System.out or System.err by a logger.(Äš½Ş
+@squid:S1989Y")Add a "try/catch" block for "getMethods".(©ò‘à
+@squid:S1989i"$Add a "try/catch" block for "doGet".(—ôÖ¢øÿÿÿÿ
+@squid:S1989i"$Add a "try/catch" block for "doGet".(—ôÖ¢øÿÿÿÿ
+Dsquid:S1989/"(Add a "try/catch" block for "getWriter".(¤¦çÚúÿÿÿÿ
+osquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÇŒÆ
+?squid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

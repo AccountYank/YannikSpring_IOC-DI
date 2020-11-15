@@ -1,0 +1,10 @@
+
+?squid:S1148f"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+csquid:S001128"FDefine and throw a dedicated exception instead of using a generic one.(â…ÔØüÿÿÿÿ
+Zsquid:CallToDeprecatedMethods"3Remove this use of "newInstance"; it is deprecated.(þ™Œ
+2squid:S3626g"Remove this redundant jump.(ÉŠ©ƒ
+zsquid:S1488ˆ"]Immediately return this expression instead of assigning it to the temporary variable "array".(‡ÎÁ‰ùÿÿÿÿ
+Fsquid:S1172S"/Remove this unused method parameter "beanName".(÷æõ²
+?squid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148w"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+csquid:S00112<"FDefine and throw a dedicated exception instead of using a generic one.(´ÊÄ—ÿÿÿÿÿ
